@@ -1,1 +1,6 @@
 
+Dr. Diego Ihara
+
+Investigador
+
+
