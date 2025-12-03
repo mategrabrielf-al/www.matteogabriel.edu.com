@@ -1,4 +1,4 @@
 
-D.Sc. Margarita Ruiz
+Lic. Felicita Duré
 
-Coordinación
+Investigador
