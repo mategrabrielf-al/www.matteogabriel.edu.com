@@ -440,16 +440,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/www.matteogabriel.edu.com/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/www.matteogabriel.edu.com/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-jornadas-científicas-en-ciencia-de-datos-2018-congreso-asunción-paraguay",
+          title: 'JORNADAS CIENTÍFICAS EN CIENCIA DE DATOS, 2018. (CONGRESO). ASUNCIÓN, PARAGUAY.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
