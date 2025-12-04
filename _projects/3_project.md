@@ -2,7 +2,7 @@
 layout: page
 title:Inteligencia Artificial para la Salud Mental. Identificación y seguimiento de pacientes con criterios de riesgo.
 description:
-img: <img width="2560" height="1706" alt="image" src="https://github.com/user-attachments/assets/be74b627-3447-46e9-86b7-fae0ba6d2f55" />.jp
+img: <img width= 
 redirect: https://unsplash.com
 importance: 3
 category: work
