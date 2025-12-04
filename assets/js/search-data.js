@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/www.matteogabriel.edu.com/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-trabajo-presentado-en-nacl-2025-participación-en-el-2025-annual-conference-of-the-nations-of-the-americas-chapter-of-the-association-for-computational-linguistics-participación-de-la-d-sc-margarita-ruiz-olazar-en-la-conferencia-anual-2025-del-capítulo-de-las-naciones-de-las-américas-de-la-asociación-de-lingüística-computacional-realizado-en-la-ciudad-de-albuquerque-nuevo-mexico-estados-unidos-donde-presentó-su-trabajo-titulado-building-a-large-language-model-for-guarani-jopara-methodology-challenges-and-preliminary-results-este-trabajo-es-desarrollado-por-los-estudiantes-de-la-maestría-en-ciencia-de-datos-rubén-díaz-y-diego-díaz-bajo-la-tutoría-de-los-profesores-margarita-ruiz-olazar-y-marvin-aguero-torales-durante-su-intervención-la-dra-ruiz-compartió-avances-en-la-construcción-de-un-modelo-de-lenguaje-grande-para-el-guaraní-jopara-destacando-los-desafíos-abordados-y-las-estrategias-exploradas-su-presentación-fue-parte-del-v-workshop-de-pln-procesamiento-de-lenguaje-natural-para-lenguas-indígenas-de-las-américas-que-reunió-a-referentes-internacionales-del-área-fomentando-el-intercambio-de-conocimientos-y-la-colaboración-científica",
+          title: 'TRABAJO PRESENTADO EN NACL 2025 Participación en el 2025 Annual Conference of the...',
           description: "",
           section: "News",},{id: "news-announcement-1",
           title: 'Announcement_1',
