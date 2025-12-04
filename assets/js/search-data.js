@@ -377,8 +377,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/www.matteogabriel.edu.com/books/the_godfather/";
-            },},{id: "news-announcement-1",
-          title: 'Announcement_1',
+            },},{id: "news-jornadas-científicas-en-ciencia-de-datos-2018-congreso-asunción-paraguay",
+          title: 'JORNADAS CIENTÍFICAS EN CIENCIA DE DATOS, 2018. (CONGRESO). ASUNCIÓN, PARAGUAY.',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/www.matteogabriel.edu.com/news/announcement_1/";
