@@ -463,8 +463,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/www.matteogabriel.edu.com/projects/2_project/";
-            },},{id: "projects-",
-          title: '',
+            },},{id: "projects-inteligencia-artificial-para-la-salud-mental-identificación-y-seguimiento-de-pacientes-con-criterios-de-riesgo",
+          title: 'Inteligencia Artificial para la Salud Mental. Identificación y seguimiento de pacientes con criterios...',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/www.matteogabriel.edu.com/projects/3_project/";
