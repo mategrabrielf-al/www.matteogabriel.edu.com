@@ -1,12 +1,12 @@
-
 ---
 layout: post
-title: TRABAJO PRESENTADO EN NACL 2025
-date: 2016-01-15 07:59:00-0400
+title:TRABAJO PRESENTADO EN NACL 2025
+date: 2024-09-07 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
+# Trabajo Presentado En NACL 2025
 
 Participación en el 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics
 
