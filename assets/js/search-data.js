@@ -387,6 +387,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/www.matteogabriel.edu.com/news/announcement_2/";
+            },},{id: "news-",
+          title: '',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/www.matteogabriel.edu.com/news/announcement_3/";
             },},{id: "projects-partición-de-datos-en-grupos-homogéneos",
           title: 'Partición de datos en grupos homogéneos',
           description: "",
