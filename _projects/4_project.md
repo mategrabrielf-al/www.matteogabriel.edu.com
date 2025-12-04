@@ -1,80 +1,32 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Sistema computacional para análisis y visualización de datos experimentales en neurociencia
+description: 
 img:
 importance: 3
 category: fun
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+25/07/25
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## Resumen del proyecto
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+Muchos de los descubrimientos científicos actuales se realizan mediante el análisis computacional de datos recopilados o generados en experimentos científicos. En este contexto, los datos científicos abiertos desempeñan un papel fundamental, ya que permiten una ciencia de mayor calidad (reproducible) y con mayor impacto. 
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+En neurociencia, en particular, el proceso de creación, organización y mantenimiento de bases de datos públicas ya se considera fundamental, tanto desde una perspectiva científica como clínica, para impulsar un avance más efectivo en la comprensión del funcionamiento cerebral y el tratamiento de sus patologías.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+Sin embargo, la creación de sistemas de bases de datos científicas para neurociencia implica varios desafíos. Aún no existen formatos estandarizados de representación digital que permitan un almacenamiento físico eficiente y seguro de datos y que hayan sido ampliamente adoptados por los neurocientíficos. Además, existe poca disponibilidad de herramientas de software libre para la recopilación rutinaria de datos experimentales. En consecuencia, muchas de las bases de datos públicas disponibles en neurociencia presentan diversas deficiencias, como datos inconsistentes e incompletos, falta de uniformidad en la representación y falta de información sobre el origen y la organización de los datos, especialmente al realizar la adquisición de imágenes. La adquisición de neuroimagen incluye, además de una serie de imágenes, información «ortogonal» al proceso, que constituye un indicador importante de la calidad de los datos adquiridos. Estos datos, junto con la información sobre el experimento, pueden considerarse metadatos o datos de procedencia de los datos experimentales.
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+Con el objetivo de contribuir en este contexto, estamos desarrollando métodos y herramientas computacionales para la representación y el almacenamiento eficiente de datos de neuroimagen. Nuestra meta es integrar estas soluciones en el manejo de datos generados durante los experimentos, facilitando su organización, acceso y reutilización. Las herramientas de gestión de datos experimentales propuestas en este proyecto no solo optimizan el trabajo en neurociencia, sino que también pueden ser aplicadas en otros ámbitos científicos, promoviendo la creación de bases de datos abiertas y el avance de la ciencia colaborativa.
 
-{% raw %}
+Video explicativo del proyecto
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+## Equipo del proyecto
 
-{% endraw %}
+D.Sc. Margarita Ruiz Olazar
+Dr. Daniel Romero
+Enrique Zárate
+Pablo Ortega
+Ivonne Rolon
+Fernando Sosa
