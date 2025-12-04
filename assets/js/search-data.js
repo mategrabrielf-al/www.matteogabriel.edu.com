@@ -483,9 +483,9 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/www.matteogabriel.edu.com/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
+            },},{id: "projects-clasificación-de-imágenes-histopatológicas",
+          title: 'Clasificación de imágenes histopatológicas',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/www.matteogabriel.edu.com/projects/7_project/";
             },},{id: "projects-project-8",
