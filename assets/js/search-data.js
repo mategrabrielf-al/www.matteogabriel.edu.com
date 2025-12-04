@@ -462,11 +462,6 @@ ninja.data = [{
           title: '',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/www.matteogabriel.edu.com/projects/2_project/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
-          section: "Projects",handler: () => {
               window.location.href = "/www.matteogabriel.edu.com/projects/3_project/";
             },},{id: "projects-sistema-computacional-para-análisis-y-visualización-de-datos-experimentales-en-neurociencia",
           title: 'Sistema computacional para análisis y visualización de datos experimentales en neurociencia',
