@@ -458,6 +458,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/www.matteogabriel.edu.com/projects/1_project/";
+            },},{id: "projects-clasificación-de-imágenes-histopatológicas",
+          title: 'Clasificación de imágenes histopatológicas',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/www.matteogabriel.edu.com/projects/2_project/";
             },},{id: "projects-",
           title: '',
           description: "",
