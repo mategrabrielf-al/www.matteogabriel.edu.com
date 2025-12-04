@@ -3,7 +3,7 @@ layout: page
 title: 
 Clasificación de imágenes histopatológicas
 description:
-img: Tv5_1-1-2048x1536.jpg
+img: assets/img/12.jpg
 importance: 2
 category: work
 giscus_comments: true
