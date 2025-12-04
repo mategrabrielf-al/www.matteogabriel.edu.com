@@ -448,10 +448,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-jornadas-científicas-en-ciencia-de-datos-2018-congreso-asunción-paraguay",
-          title: 'JORNADAS CIENTÍFICAS EN CIENCIA DE DATOS, 2018. (CONGRESO). ASUNCIÓN, PARAGUAY.',
+          section: "News",},{id: "news-announcement-1",
+          title: 'Announcement_1',
           description: "",
-          section: "News",},{id: "projects-partición-de-datos-en-grupos-homogéneos",
+          section: "News",handler: () => {
+              window.location.href = "/www.matteogabriel.edu.com/news/announcement_1/";
+            },},{id: "projects-partición-de-datos-en-grupos-homogéneos",
           title: 'Partición de datos en grupos homogéneos',
           description: "",
           section: "Projects",handler: () => {
