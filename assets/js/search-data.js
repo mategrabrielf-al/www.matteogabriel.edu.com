@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/www.matteogabriel.edu.com/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-congreso-de-informática-del-paraguay",
+          title: 'CONGRESO DE INFORMÁTICA DEL PARAGUAY',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/www.matteogabriel.edu.com/news/announcement_2/";
