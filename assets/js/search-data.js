@@ -451,9 +451,9 @@ ninja.data = [{
           section: "News",},{id: "news-jornadas-científicas-en-ciencia-de-datos-2018-congreso-asunción-paraguay",
           title: 'JORNADAS CIENTÍFICAS EN CIENCIA DE DATOS, 2018. (CONGRESO). ASUNCIÓN, PARAGUAY.',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-partición-de-datos-en-grupos-homogéneos",
+          title: 'Partición de datos en grupos homogéneos',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/www.matteogabriel.edu.com/projects/1_project/";
             },},{id: "projects-project-2",
