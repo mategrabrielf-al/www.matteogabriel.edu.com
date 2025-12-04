@@ -1,12 +1,13 @@
 ---
 layout: page
-title:Inteligencia Artificial para la Salud Mental. Identificación y seguimiento de pacientes con criterios de riesgo.
-description:
-img: <img width= 
-redirect: https://unsplash.com
-importance: 3
+title: Inteligencia Artificial para la Salud Mental. Identificación y seguimiento de pacientes con criterios de riesgo.
+description: 
+img: assets/img/12.jpg
+importance: 2
 category: work
+related_publications: true
 ---
+
 
 25/07/25
 
