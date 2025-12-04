@@ -483,11 +483,6 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/www.matteogabriel.edu.com/projects/6_project/";
-            },},{id: "projects-clasificación-de-imágenes-histopatológicas",
-          title: 'Clasificación de imágenes histopatológicas',
-          description: "",
-          section: "Projects",handler: () => {
-              window.location.href = "/www.matteogabriel.edu.com/projects/7_project/";
             },},{id: "projects-inteligencia-artificial-para-la-salud-mental-identificación-y-seguimiento-de-pacientes-con-criterios-de-riesgo",
           title: 'Inteligencia Artificial para la Salud Mental. Identificación y seguimiento de pacientes con criterios...',
           description: "",
