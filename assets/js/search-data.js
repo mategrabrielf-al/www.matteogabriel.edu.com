@@ -440,11 +440,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/www.matteogabriel.edu.com/books/the_godfather/";
-            },},{id: "news-congreso-de-informática-del-paraguay",
-          title: 'CONGRESO DE INFORMÁTICA DEL PARAGUAY',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/www.matteogabriel.edu.com/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
@@ -453,6 +448,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/www.matteogabriel.edu.com/news/announcement_1/";
+            },},{id: "news-congreso-de-informática-del-paraguay",
+          title: 'CONGRESO DE INFORMÁTICA DEL PARAGUAY',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/www.matteogabriel.edu.com/news/announcement_2/";
             },},{id: "projects-partición-de-datos-en-grupos-homogéneos",
           title: 'Partición de datos en grupos homogéneos',
           description: "",
