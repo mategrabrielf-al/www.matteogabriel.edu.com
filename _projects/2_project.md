@@ -1,13 +1,4 @@
----
-layout: page
-title: 
-Clasificación de imágenes histopatológicas
-description:
-img: assets/img/12.jpg
-importance: 2
-category: work
-giscus_comments: true
----
+
 
 25/07/25
 
