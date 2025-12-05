@@ -455,6 +455,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/www.matteogabriel.edu.com/news/announcement_4/";
+            },},{id: "news-revisión-sistemática-sobre-salud-mental-en-paraguay",
+          title: 'REVISIÓN SISTEMÁTICA SOBRE SALUD MENTAL EN PARAGUAY',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/www.matteogabriel.edu.com/news/announcement_5/";
             },},{id: "news-congreso-de-informática-del-paraguay",
           title: 'CONGRESO DE INFORMÁTICA DEL PARAGUAY',
           description: "",
