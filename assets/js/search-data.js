@@ -450,6 +450,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/www.matteogabriel.edu.com/news/announcement_3/";
+            },},{id: "news-iberamia",
+          title: 'IBERAMIA',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/www.matteogabriel.edu.com/news/announcement_4/";
             },},{id: "news-congreso-de-informática-del-paraguay",
           title: 'CONGRESO DE INFORMÁTICA DEL PARAGUAY',
           description: "",
