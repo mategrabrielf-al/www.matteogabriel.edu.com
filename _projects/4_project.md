@@ -2,7 +2,7 @@
 layout: page
 title: Sistema computacional para análisis y visualización de datos experimentales en neurociencia
 description: 
-img: assets/img/12.jpg
+img: assets/img/SIST.jpg
 importance: 3
 category: fun
 ---
