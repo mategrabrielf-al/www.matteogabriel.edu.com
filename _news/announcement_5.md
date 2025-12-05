@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-## * REVISIÓN SISTEMÁTICA SOBRE SALUD MENTAL EN PARAGUAY
+##  REVISIÓN SISTEMÁTICA SOBRE SALUD MENTAL EN PARAGUAY
 Investigadora presenta revisión sistemática sobre salud mental ante profesionales del Centro Salud Mental del IPS
 
 En la fecha 28 de mayo de 2025, se llevó a cabo una destacada presentación a cargo de la investigadora Cecilia Scales, quien expuso los hallazgos de su más reciente trabajo: una revisión sistemática sobre salud mental en Paraguay. El evento tuvo lugar en las instalaciones del Centro Salud Mental, con la participación activa de médicos y profesionales del área.
