@@ -40,5 +40,33 @@ profiles:
     more_info: >
       <p>555 your office number</p>
       <p>123 your address street</p>
+  - align: right
+    image: margarita.jpg
+    content: Cecilia.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+  - align: left
+    image: fernando.jpg
+    content: fernando.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>555 your office number</p>
+      <p>123 your address street</p>
       <p>Your City, State 12345</p>
+  - align: left
+    image: margarita.jpg
+    content: fabio.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+  - align: left
+    image: margarita.jpg
+    content: eliana.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>555 your office number</p>
+      <p>123 your address street</p>
 ---
