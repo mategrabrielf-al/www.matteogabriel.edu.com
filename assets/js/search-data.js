@@ -475,16 +475,6 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/www.matteogabriel.edu.com/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/www.matteogabriel.edu.com/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/www.matteogabriel.edu.com/projects/9_project/";
             },},{
         id: 'social-cv',
         title: 'CV',
