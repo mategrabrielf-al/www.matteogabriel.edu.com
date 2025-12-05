@@ -2,7 +2,7 @@
 layout: page
 title: Clasificación de imágenes histopatológicas
 description: 
-img: assets/img/12.jpg
+img: assets/img/phisto1.jpg
 importance: 1
 category: work
 related_publications: true
