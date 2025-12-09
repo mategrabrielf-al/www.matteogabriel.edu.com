@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IBERAMIA
-date: 2026
+date: 2025-10-1 00:00:00 -0400
 inline: false
 related_posts: false
 ---
