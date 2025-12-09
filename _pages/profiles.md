@@ -56,7 +56,7 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
   - align: right
-    image: Fabio
+    image: Fabio (2).png
     content: fabio.md
     image_circular: false # crops the image to make it circular
     more_info: >
