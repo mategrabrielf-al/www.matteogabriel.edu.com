@@ -2,7 +2,7 @@
 layout: page
 title: Inteligencia Artificial para la Salud Mental. Identificación y seguimiento de pacientes con criterios de riesgo.
 description: 
-img: assets/img/PROYEC SALUD.jpg
+img: assets/img/ph.jpg
 importance: 2
 category: work
 related_publications: true
