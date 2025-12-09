@@ -2,7 +2,7 @@
 layout: page
 title: Sistema computacional para análisis y visualización de datos experimentales en neurociencia
 description: 
-img: assets/img/SIST.jpg
+img: assets/img/electrode_localization_v3.png.jpg
 importance: 3
 category: fun
 ---
