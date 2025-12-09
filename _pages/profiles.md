@@ -34,21 +34,21 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
   - align: left
-    image: Felicita-Dure.jpg
+    image: 
     content: felicita.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
       <p>123 your address street</p>
   - align: right
-    image: Cecilia_Escales-774*1024.jpg
+    image: 
     content: Cecilia.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
       <p>123 your address street</p>
   - align: left
-    image: fernando_sosa-768*1024.jpg
+    image: 
     content: fernando.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -56,14 +56,14 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
   - align: right
-    image: fabio.png.jpg
+    image: 
     content: fabio.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
       <p>123 your address street</p>
   - align: left
-    image: Eliana-v.jpg
+    image: 
     content: eliana.md
     image_circular: false # crops the image to make it circular
     more_info: >
