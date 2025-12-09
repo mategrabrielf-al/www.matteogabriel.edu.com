@@ -1,1 +1,6 @@
-Fabio Lopez Pires
+
+Dr. Fabio López
+
+Investigador asociado
+
+Linkedin
