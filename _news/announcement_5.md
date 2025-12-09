@@ -1,7 +1,7 @@
 ---
 layout: post
 title: REVISIÓN SISTEMÁTICA SOBRE SALUD MENTAL EN PARAGUAY
-date: 28-05-2025
+date: 28-05-2025 10:30:00-0400
 inline: false
 related_posts: false
 ---
