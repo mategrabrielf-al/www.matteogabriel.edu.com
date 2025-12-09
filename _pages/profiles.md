@@ -48,7 +48,7 @@ profiles:
       <p>555 your office number</p>
       <p>123 your address street</p>
   - align: left
-    image: 
+    image: Fernando_Sosa
     content: fernando.md
     image_circular: false # crops the image to make it circular
     more_info: >
