@@ -28,7 +28,7 @@ latest_posts:
 
 Es una iniciativa que aplica Ciencia de Datos e Inteligencia Artificial para generar conocimiento, formar profesionales y desarrollar soluciones innovadoras con impacto local y regional.
 
-## LÍNEAS DE INVESTIGACIÓN
+# LÍNEAS DE INVESTIGACIÓN
 
 - Ciencia de datos
 - Neurociencia y Comportamiento
@@ -37,7 +37,7 @@ Es una iniciativa que aplica Ciencia de Datos e Inteligencia Artificial para gen
 - ingeniería de software
 - Inteligencia Artificial
 
-## MISIÓN
+# MISIÓN
 Propiciar el crecimiento y competitividad de la economía paraguaya fortaleciendo la toma de decisiones del ecosistema emprendedor, la industria, la banca y del sector público a través del procesamiento inteligente de datos, el desarrollo de Investigación y Desarrollo (I+D), y la formación de talento humano especializado.
 
 # Objetivos
