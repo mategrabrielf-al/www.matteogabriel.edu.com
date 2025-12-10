@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Trabajo Presentado En NACL 2025.
+imag: 
 date: 27-10-2025. 10:30:00-0400
 inline: false
 related_posts: false
