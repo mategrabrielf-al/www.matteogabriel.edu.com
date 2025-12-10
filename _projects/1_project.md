@@ -2,7 +2,7 @@
 layout: page
 title: Partición de datos en grupos homogéneos
 description: 
-img: assets/img/.jpg
+img:
 importance: 1
 category: work
 related_publications: true
