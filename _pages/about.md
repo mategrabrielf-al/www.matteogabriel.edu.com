@@ -6,7 +6,7 @@ subtitle: <a href='https://www.ucom.edu.py'>Universidad Comunera</a>. Asunción 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: OIP.webp.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Monseñor Bogarín 284</p>
