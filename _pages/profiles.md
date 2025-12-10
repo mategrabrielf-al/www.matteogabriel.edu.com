@@ -70,3 +70,10 @@ profiles:
       <p>555 your office number</p>
       <p>123 your address street</p>
 ---
+  - align:
+    image: 
+    content: 
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>555 your office number</p>
+      <p>123 your address street</p>
