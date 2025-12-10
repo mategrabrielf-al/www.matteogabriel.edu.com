@@ -41,7 +41,7 @@ profiles:
       <p>555 your office number</p>
       <p>123 your address street</p>
   - align: right
-    image: Cecilia_Scales-774x1024 (2).jpeg
+    image: Cecilia_Scales-774x1024.jpeg
     content: cecilia.md
     image_circular: false # crops the image to make it circular
     more_info: >
